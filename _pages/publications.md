@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{[author.googlescholar](https://scholar.google.com/citations?user=iO8tlOsAAAAJ&hl=en)}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## <span style="font-variant:small-caps;"><span style="color:#440154">**Peer-reviewed publications**</span></span>
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Kale B., <span style="color:#3B528B">**Leclerc C.**</span>, Alhoori H., Papka M. (2017). Predicting research that will be cited in policy documents. *Proceedings of the 2017 ACM on Web Science Conference*, 29 (9): 2450-2465. ![Static Badge](https://img.shields.io/badge/DOI-10.1145%2F3091478.3098865) <br>
