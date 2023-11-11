@@ -11,30 +11,48 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Computer Science, Gitam University, 2016
+* M.S. in Computer Science, Northern Illinois University, 2018
+* Ph.D in Computer Science, Northern University, 2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* January 2017 - May 2018: Research Assistant
+  * Northern Illinois University
+  * Duties included: Researching the application of ML to bibliometrics.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* January 2018 - May 2018: Machine Learning Intern
+  * Sema
+  * Duties included: Researching the use of ML in software maintenance.
+
+* June 2018 - November 2019: Data Scientist
+  * Diwo
+  * Duties included: Building ML models and microservices.
+ 
+* December 2019 - October 2021: Data Scientist
+  * NielsenIQ
+  * Duties included: Data analysis.
+ 
+* October 2021 - Present: Senior Data Scientist
+  * Shipt
+  * Duties included: Developing and deploying ML pipelines.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine Learning
+  * Supervised/Unsupervised Learning
+  * Deep Learning
+* Natural Language Processing
+  * Natural Language Generation
+  * Large Language Models
+* Programming Languages
+  * Python
+  * Scala
+  * R
+* Data Visualization
+  * Streamlit
+  * Tableau
+  * PowerBI
 
 Publications
 ======
@@ -47,13 +65,3 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
